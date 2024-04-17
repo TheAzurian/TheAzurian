@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TheAzurian
+- 👋 Hi, I’m Jordyn Gaither
 - 👀 I’m interested in economics with a focus on financial crime. 
-- 🌱 I’m currently learning basic data analytic skills and Python. 
-- 💞️ I’m looking to collaborate on research in the field of economics.
-- 📫 How to reach me? Sadly I am unaviable at the moment unless I have given you prior permisson. 
-                       Currently I am focused on improving my skills and portfolio and as a result I am avioding possible distractions.
+- 🌱 I’m currently learning Image Classifacation and NLP. 
+- 💞️ I’m looking to gain full time work in the .
+- 📫 How to reach me? You can email me @ gaitherjordyn@gmail.com. 
+                     
 
 <!---
 TheAzurian/TheAzurian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
