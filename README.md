@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jordyn Gaither
 - 👀 I’m interested in economics with a focus on financial crime. 
 - 🌱 I’m currently learning Image Classifacation and NLP. 
-- 💞️ I’m looking to gain full time work in the .
+- 💞️ I’m looking to gain full time work.
 - 📫 How to reach me? You can email me @ gaitherjordyn@gmail.com. 
                      
 
