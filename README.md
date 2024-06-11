@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jordyn Gaither
+- 👋 Hi, I’m Jordyn Gaither! A recent graduate from the University of Alabama in Huntsville with a MBA in Business Analytics.
 - 👀 I’m interested in economics with a focus on financial crime. 
 - 🌱 I’m currently learning Image Classifacation and NLP. 
 - 💞️ I’m looking to gain full time work.
